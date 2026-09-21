@@ -1,0 +1,16 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Oxytricha trifallax		strain: JRB310	1172189	Oxytricha_MIC_v2.0	GCA_000711775.1	GenBank	Annotation submitted by Princeton University	Contig	27807	496291018	2014-06-25	810	PRJNA194431	SAMN02377822
+Ichthyophthirius multifiliis		strain: G5	5932	JCVI-IMG1-V.1	GCF_000220395.1	RefSeq	Annotation submitted by NCBI RefSeq	Scaffold	54990	48799969	2011-07-18	8213	PRJNA49999	SAMN02953779
+Pseudocohnilembus persalinus		isolate: 36N120E	266149	ASM144751v1	GCA_001447515.1	GenBank	Annotation submitted by Wei Miao	Scaffold	286209	55455357	2015-11-24	13179	PRJNA275811	SAMN03353580
+Stylonychia lemnae		strain: 130c	5949	Stylonychia_lemnae_asm_v1.0	GCA_000751175.1	GenBank	Annotation submitted by IZB	Contig	3290	50164522	2014-09-07	20740	PRJEB5807	SAMEA2594040
+Tetrahymena utriculariae		isolate: A2B2	2486642	ASM4737286v1	GCA_047372865.1	GenBank	Annotation submitted by University of Konstanz	Contig	531665	99894447	2025-02-03	22866	PRJNA1120015	SAMN41693481
+Tetrahymena malaccensis		isolate: 23b	5901	ASM4737288v1	GCA_047372885.1	GenBank	Annotation submitted by University of Konstanz	Contig	1046383	107663971	2025-02-03	22937	PRJNA1120015	SAMN41693483
+Tetrahymena thermophila SB210		strain: SB210	312017	JCVI-TTA1-2.2	GCF_000189635.1	RefSeq	Annotation submitted by NCBI RefSeq	Scaffold	367094	103014375	2009-03-23	26996	PRJNA12564	SAMN02953617
+Moneuplotes crassus		strain: DP1	5936	Ecrassus_DP1_MAC_1.0	GCA_946863485.1	GenBank	Annotation submitted by MAX PLANCK INSTITUTE FOR DEVELOPMENTAL BIOLOGY	Contig	2273	59699089	2023-07-02	29547	PRJEB53856	SAMEA110183280
+Stentor coeruleus		isolate: WM001	5963	ASM197095v1	GCA_001970955.1	GenBank	"Annotation submitted by University of California, San Francisco"	Contig	55114	77789515	2017-01-25	31426	PRJNA352242	SAMN05968724
+Paramecium primaurelia			5886	Paramecium_primaurelia_V1	GCA_905182975.1	GenBank	Annotation submitted by Genoscope CEA	Scaffold	242513	86329489	2021-06-18	38668	PRJEB41877	SAMEA7767319
+Paramecium tetraurelia		strain: Stock d4-2	5888	ASM16542v1	GCF_000165425.1	RefSeq	Annotation submitted by Genoscope	Scaffold	215029	72094543	2007-02-02	39642	PRJNA18363	SAMEA3138302
+Paramecium pentaurelia			43138	Paramecium_pentaurelia_V1	GCA_905183005.1	GenBank	Annotation submitted by Genoscope CEA	Scaffold	269747	87295513	2021-06-19	41578	PRJEB41878	SAMEA7767320
+Paramecium octaurelia			43137	Paramecium_octaurelia_V1	GCA_905182995.1	GenBank	Annotation submitted by Genoscope CEA	Scaffold	326738	86439580	2021-06-18	42611	PRJEB41874	SAMEA7767317
+Paramecium sonneborni			65129	Paramecium_sonneborni_V1	GCA_905182985.1	GenBank	Annotation submitted by Genoscope CEA	Scaffold	96364	98056381	2021-06-19	49755	PRJEB41876	SAMEA7767318
+Blepharisma stoltei		strain: ATCC 30299	1481888	Bstoltei_ATCC30299_MIC_1.0	GCA_914767885.1	GenBank	Annotation submitted by MAX PLANCK INSTITUTE FOR DEVELOPMENTAL BIOLOGY	Contig	1038890	54657046	2022-07-01	66624	PRJEB46944	SAMEA9534120
